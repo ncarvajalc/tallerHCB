@@ -1,0 +1,26 @@
+.header {
+  background-color: rgb(221, 44, 0);
+  color: white;
+}
+
+.pokeball {
+  background-color: rgb(255, 61, 0);
+}
+
+.explicacion1 {
+  font-family: 'Monaco';
+  background-color: rgb(255, 61, 0);
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  border: 5px solid rgb(54,71,79);
+  color: white;
+}
+
+.explicacion2 {
+  font-family: 'Monaco';
+  font-weight: bolder;
+  background-color: white;
+  color: rgb(54,71,79);
+  padding: 5px 5px 5px 5px;
+  border: 5px solid rgb(54,71,79);
+}
